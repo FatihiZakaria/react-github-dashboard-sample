@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Github Dashboard Sample
+<br />
+
+**Live Demo** : https://fatihizakaria.github.io/react-github-dashboard-sample
+<br />
+<br />
+
+This is a web app developed with ReactJS, Redux, TypeScript, Jest.
+
+It allows to interact with Github Api to get informations of a user by his username.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
